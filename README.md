@@ -9,7 +9,7 @@ Add owners by passing their names as arguments:
 `$ npm-owner npmUser1 npmUser2`
 
 Add owners defined in a file:  
-`$ npm-owner path/to/file'`
+`$ npm-owner path/to/file`
 
 
 ## DISCLAIMER
