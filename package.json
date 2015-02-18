@@ -1,0 +1,25 @@
+{
+  "name": "npm-owners",
+  "version": "0.1.1",
+  "description": "This is a little wrapper aroung '$ npm owner add' which allows you to add multiple contributors at once.",
+  "main": "npm-owners.sh",
+  "bin": {
+    "npm-owners": "./npm-owners.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobinThrift/npm-owners-sh.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Robin Thrift <thrift.d.robin@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinThrift/npm-owners-sh/issues"
+  },
+  "homepage": "https://github.com/RobinThrift/npm-owners-sh"
+}
