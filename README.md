@@ -3,6 +3,9 @@
 This is a little wrapper aroung `$ npm owner add` which allows you to add multiple contributors
 at once.
 
+## Installation
+`$ npm install -g npw-owners`
+
 ## Usage
 
 Add owners by passing their names as arguments:  
