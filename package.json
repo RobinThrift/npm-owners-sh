@@ -1,6 +1,6 @@
 {
   "name": "npm-owners",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This is a little wrapper aroung '$ npm owner add' which allows you to add multiple contributors at once.",
   "main": "npm-owners.sh",
   "bin": {
