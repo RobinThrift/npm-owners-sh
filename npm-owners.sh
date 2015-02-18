@@ -1,8 +1,7 @@
 #!/bin/sh
 
 if [[ -r "$1" ]]; then
-    contribs=$(cat $1);
-    for i in "$contribs"; do
+    for i in `cat "$1"`; do
         echo "Adding $i as an owner...";
         npm owner add "$i";
     done;
