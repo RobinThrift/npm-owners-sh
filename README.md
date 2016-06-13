@@ -4,7 +4,7 @@ This is a little wrapper aroung `$ npm owner add` which allows you to add multip
 at once.
 
 ## Installation
-`$ npm install -g npw-owners`
+`$ npm install -g npm-owners`
 
 ## Usage
 
